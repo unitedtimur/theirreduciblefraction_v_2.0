@@ -51,7 +51,6 @@ namespace TheFraction {
 	private: System::Windows::Forms::Label^  label1;
 	private: System::Windows::Forms::Label^  label2;
 	private: System::Windows::Forms::Label^  label3;
-
 	private: System::ComponentModel::Container ^components;
 
 #pragma region Windows Form Designer generated code
