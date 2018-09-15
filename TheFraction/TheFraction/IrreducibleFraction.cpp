@@ -1,3 +1,9 @@
+/*
+*
+*Created by UnitedTimur
+*
+*/
+
 #include "IrreducibleFraction.h"	
 
 IrreducibleFraction::IrreducibleFraction(int first = 0, int second = 0)
