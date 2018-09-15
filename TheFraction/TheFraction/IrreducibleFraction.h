@@ -1,3 +1,9 @@
+/*
+*
+*Created by UnitedTimur
+*
+*/
+
 #pragma once
 #ifndef IRREDUCIBLEFRACTION_H
 #define IRREDUCIBLEFRACTION_H
