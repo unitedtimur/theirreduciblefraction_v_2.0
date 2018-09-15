@@ -1,3 +1,9 @@
+/*
+*
+*Created by UnitedTimur
+*
+*/
+
 #pragma once
 #include "IrreducibleFraction.h"
 
