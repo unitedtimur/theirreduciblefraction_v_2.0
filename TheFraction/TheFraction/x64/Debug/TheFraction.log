@@ -1,0 +1,5 @@
+﻿  form.cpp
+c:\users\unitedtimur\desktop\info\new semester\thefraction\thefraction\form.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\users\unitedtimur\desktop\info\new semester\thefraction\thefraction\form.cpp(18): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\unitedtimur\desktop\info\new semester\thefraction\thefraction\form.cpp(19): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  TheFraction.vcxproj -> C:\Users\UnitedTimur\Desktop\Info\New semester\TheFraction\x64\Debug\TheFraction.exe
