@@ -1,3 +1,9 @@
+/*
+*
+*Created by UnitedTimur
+*
+*/
+
 #include "form.h"
 #include "IrreducibleFraction.h"
 using namespace System;
